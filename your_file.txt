@@ -1,0 +1,6 @@
+db.t2dm.insert({ pmid:30694322, title:"Effect of Hydrocortisone Therapy Initiated 7 to 14 Days After Birth on Mortality or Bronchopulmonary Dysplasia Among Very Preterm Infants Receiving Mechanical Ventilation: A Randomized Clinical Trial", insulin: 1, mortality: 1, odds_ratio: 1, is_downloaded: 0 })
+db.t2dm.insert({ pmid:19318384, title:"Intensive versus conventional glucose control in critically ill patients", insulin: 1, mortality: 1, odds_ratio: 1, is_downloaded: 0 })
+db.t2dm.insert({ pmid:29488676, title:"Treatment with insulin is associated with worse outcome in patients with chronic heart failure and diabetes", insulin: 1, mortality: 1, odds_ratio: 1, is_downloaded: 0 })
+db.t2dm.insert({ pmid:12771873, title:"Continuous insulin infusion reduces mortality in patients with diabetes undergoing coronary artery bypass grafting", insulin: 1, mortality: 1, odds_ratio: 1, is_downloaded: 0 })
+db.t2dm.insert({ pmid:19623047, title:"Hypoglycemia with intensive insulin therapy in critically ill patients: predisposing factors and association with mortality", insulin: 1, mortality: 1, odds_ratio: 1, is_downloaded: 0 })
+db.t2dm.insert({ pmid:20715734, title:"Glycaemic fluctuation predicts mortality in critically ill patients", insulin: 1, mortality: 1, odds_ratio: 1, is_downloaded: 0 })

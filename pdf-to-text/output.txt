@@ -1,0 +1,562 @@
+
+* Corresp
+Biotecnolo
+mano, nº 2
+E-mail: ape
+
+PHYTOTHERAPY RESEARCH
+Phytother. Res. 28: 1816–1821 (2014)
+Published online 6 August 2014 in Wiley Online Library
+(wileyonlinelibrary.com) DOI: 10.1002/ptr.5206
+
+Copyright
+Eugenia punicifolia (Kunth) DC. as an Adjuvant
+Treatment for Type-2 Diabetes Mellitus: A
+non-Controlled, Pilot Study
+Débora Simone Sales,1 Fabio Carmona,1 Bruna Cestari de Azevedo,2
+Silvia Helena Taleb-Contini,2 Ana Carolina Duó Bartolomeu,2 Fernando B. Honorato,1
+Edson Z. Martinez1 and Ana Maria Soares Pereira2*
+1Ribeirão Preto Medical School, University of São Paulo, Avenida dos Bandeirantes, 3900, Monte Alegre, Ribeirão Preto, São Paulo
+14049-900, Brazil
+2Department of Plant Biotechnology, University of Ribeirão Preto, Avenida Costabile Romano, 2201, Ribeirânia, Ribeirão Preto, São
+Paulo 14096-900, Brazil
+Type-2 diabetes mellitus (DM) is a highly prevalent disease with significant morbidity and mortality around the
+world. However, there is no universally effective treatment, because response to different treatment regimens can
+vary widely among patients. In this study, we aimed to investigate whether the use of the powdered dried leaves
+of Eugenia punicifolia (Kunth) DC. (Myrtaceae) is effective as an adjuvant to the treatment of patients with
+type-2 DM. Fifteen patients were enrolled in a pilot, non-controlled study, and received E. punicifolia for 3 months.
+After treatment, we observed a significant decrease in glycosylated hemoglobin, basal insulin, thyroid-stimulating
+hormone, C-reactive protein, and both systolic and diastolic blood pressure. There were no changes in fasting and
+postprandial glycemia. The compounds myricetin-3-O-rhamnoside, quercetin-3-O-galactoside, quercetin-3-O-
+xyloside, quercetin-3-O-rhamnoside, kaempferol-3-O-rhamnoside, phytol, gallic acid, and trans-caryophyllene
+present in the powdered dried leaves of E. punicifolia may be responsible for the therapeutic effect. In conclusion,
+the powdered leaves of E. punicifolia are promising as an adjuvant in the treatment of type-2 DM and deserve
+further investigation. Copyright © 2014 John Wiley & Sons, Ltd.
+
+Keywords: myrtaceae; phytotherapeutics; hypoglycemic agents; herbal medicine.
+INTRODUCTION
+
+Type-2 diabetes mellitus (DM) is a highly prevalent dis-
+ease, affecting more than 20 million people in the USA
+(Blonde, 2010). It is responsible for significant morbidity
+and mortality (Yeh et al., 2003; Blonde, 2010). However,
+there is no universally effective treatment, because
+response to different treatment regimens can vary widely
+among patients (Blonde, 2009; Blonde, 2010).
+The use of complementary and alternative treatments,
+
+including the use of herbal medicines, is increasing among
+diabetic people, because of poor adherence to treatment,
+poor disease control, side effects of conventional drugs,
+and cultural beliefs (Yeh et al., 2003; Hui et al., 2009).
+Many plant species have been identified as promising
+sources of new hypoglycemiant drugs (Yeh et al., 2003;
+Negri, 2005; Rao et al., 2010). Despite this, only a few
+herbal medicines have been proven useful in high-quality
+studies (Hui et al., 2009).
+Eugenia punicifolia (Kunth) DC. (Myrtaceae, ‘pedra-
+
+ume-kaá’, Brazil) is a 1–4 m high shrub. From about 500
+species of Eugenia, 400 are located in Brazil. Its leaves
+have been traditionally used in the treatment of diabetic
+patients (Brunetti et al., 2006) and possess
+antiinflammatory and nicotinic antagonist activities
+ondence to: Ana Maria Soares Pereira, Departamento de
+gia Vegetal, Universidade de Ribeirão Preto, Avenida Costabile Ro-
+201, Ribeirânia, Ribeirão Preto, São Paulo, Brasil, CEP 14096-900.
+reira@unaerp.br
+
+© 2014 John Wiley & Sons, Ltd.
+(Grangeiro et al., 2006; Leite et al., 2010). The methano-
+lic and aqueous extracts of E. punicifolia, studied in an an-
+imal model of diabetes, showed anorexic effect and
+improved carbohydrate and protein metabolism without
+toxicity (Brunetti et al., 2006). However, to date, this has
+never been investigated in humans.
+
+In this pilot, longitudinal, non-controlled study, we aimed
+to investigate the effects of E. punicifolia on fasting and 2h
+postprandial glycemia, glycosylated hemoglobin, and other
+laboratorial tests in adults with type-2 DM. We hypothesized
+that E. punicifolia can enhance disease control.
+MATERIALS AND METHODS
+
+Study design. This is a pilot, longitudinal, non-controlled,
+open, phase-2 interventional study, comparing patients
+with themselves before and after the intervention. The
+study was approved by our local institutional review
+board (Research Ethics Committee of HCRP and
+FMRP-USP, process #737/2011). A signed informed
+consent was obtained from all patients.
+Patients. All adult patients with a clinical diagnosis of
+type-2 DM treated in our institution (Ambulatory of
+Phytotherapeutics ‘Farmácia da Natureza’, Jardinópolis,
+Brazil) were eligible for the study. Inclusion criteria
+Received 11 May 2014
+Revised 17 June 2014
+Accepted 05 July 2014
+
+
+
+1817Eugenia punicifolia AND TYPE-2 DIABETES MELLITUS
+were age older than 18 years and a diagnostic of type-2
+DM. The diagnosis of type-2 DM was made using the
+World Health Organization recommendations (WHO,
+2006): fasting glycemia ≥ 126 mg/dL or 2 h postprandial
+glycaemia ≥ 200 mg/dL. The exclusion criterion was
+known allergy to E. punicifolia. Patients were withdrawn
+from the study in case of serious or severe adverse events.
+The patients were followed for 3 months. All but one
+patients were on regular treatment for DM (Table 1).
+Preparation of the medicine. Leaves of E. punicifolia
+were collected at 9 AM and dried in an oven with circulat-
+ing air at 45°C for 36 h. They were then ground in a knife
+mill and sieved to standardize the particle size (40 mesh).
+The powdered dried leaves were administered in capsules
+containing 200 mg each.
+The plant was identified according to an authentic sample
+
+by Dr Marcos Eduardo Guerra Sobral (taxonomist, Federal
+University of São João Del-Rei, expert on Myrtaceae). A
+voucher of E. punicifolia species was deposited at the
+herbarium of the Biotechnology Department of the
+University of Ribeirão Preto (UNAERP), with the refer-
+ence number HPMU-1539.
+Analytical procedures. Solvents and reagents. All solvents
+and reagents were of the highest purity needed for each
+application. Silylation reagents, N,O-bis (trimethylsilyl)
+trifluoroacetamide (BSTFA) and trimethyl-cholorosilane
+(TMCS), were purchased from Supelco and Sigma-Aldrich
+(St. Louis, MO, USA), respectively.
+
+Extraction and isolation. Dried leaves (0.2 kg) were ex-
+haustively extracted with MeOH at room temperature.
+The obtained extract was concentrated under reduced
+pressure to remove organic solvents, affording 17.20 g of
+crude extract, which was suspended in MeOH/H2O (8:2)
+Table 1. Demographic data
+
+Variable Result
+
+Age (years) 60 ± 10
+Time since diagnostic (years) 10 ± 8
+Time between visits (days) 109 ± 18
+Female gender 9 (60%)
+Complications 4 (27%)
+Alcohol consumption (currently) 2 (13%)
+Smoking (currently) 0
+Family history of diabetes mellitus 7 (47%)
+Sedentary habits (currently) 8 (53%)
+Stress (currently) 9 (60%)
+Medications
+
+Metformin 5 (33%)
+Metformin + glibenclamide 4 (26%)
+Metformin + glimepiride + vildagliptine 1 (6%)
+Metformin + glimepiride 1 (6%)
+Metformin + glicazide 1 (6%)
+Glicazide 1 (6%)
+Repaglinide 1 (6%)
+None 1 (6%)
+
+Results are expressed as mean ± standard deviation or number
+(proportion).
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+and partitioned with solvents of increasing polarities,
+yielding hexane and ethyl acetate fractions.
+
+Sample derivatization. Five milligrams of fraction was
+dissolved in 100 μL of pyridine. The residue was
+derivatized by adding 200 μL of BSTFA:TMCS/98:2
+and heating for 90 min at 80°C. After cooling down to
+room temperature, an aliquot of 200 μL was transferred
+into the vials and diluted to 1 mL with EtOAc for gas
+chromatography–mass spectrometry (GC-MS) analysis.
+
+HPLC-DAD/ESI-MS analysis. Phenolic profile of meth-
+anolic extract of E. punicifolia was investigated according
+Ferreres (Ferreres et al., 2012). For flavonoids identifica-
+tion, 1 mg of ethyl acetate fraction was re-dissolved in
+1 mL of MeOH:H2O (1:1), and sample was sonicated
+and filtered (0.22 μ). High-performance liquid chroma-
+tography–diode array detection/electrospray ionization-
+mass spectrometry (HPLC-DAD/ESI-MS) analysis was
+developed on a Shimadzu LC-6 AD apparatus with a
+diode array detector (SPD-M10Avp; Shimadzu), coupled
+with an auto-injector (SIL-10AF; Shimadzu) and Class-
+VO 6.14 controller. Chromatographic analysis was carried
+out on a Luna C18 column (250× 4.6mm× 5μm particle
+size; Phenomenex, Macclesfield, UK). The mobile phase
+consisted of water–acetic acid (1%) (A) and methanol
+(B), starting with 20% B and using a gradient to obtain
+50% B at 30min and 90% B at 35min. The injection vol-
+ume was 20 μL, and the flow rate was 1mL/min. Spectral
+data from all peaks were accumulated in the range
+240–400nm, and chromatograms were recorded at 340 nm.
+
+GC-MS analyses. For volatile compounds identification,
+5mg of hexane and ethyl acetate fractions were
+dissolved, separately, in 100μL of pyridine. The residues
+were derivatized by adding 200 μL of BSTFA:TMCS/98:2
+and heating for 90min at 80°C. After cooling down to
+room temperature, an aliquot of 200 μL of each silanized
+fraction was transferred into the vials and diluted to 1mL
+with EtOAc for GC-MS analyses. Chromatographic analy-
+ses were carried out using a gas chromatograph–mass
+spectrometer (model QP-2010, Shimadzu Corp., Kyoto,
+Japan); column DB-5ms (30 ×0.25mm× 0.25 μm) Agilent
+J&W (Santa Clara, CA, USA); carrier gas helium; split
+1:40; flow rate of 1.1mL/min; oven program: total run time:
+73min; initial temperature at 100°C; ramp 3°C/min to 290°C;
+hold 10min; injection volume 1μL; injector temperature was
+set at 260°C. MS was operated in the positive ion mode, with
+an ionization voltage of 70eV. The MS data were obtained in
+full scan mode (50–600amu). A comparison of the mass
+spectra ofsilylated compounds with those of the MS fragmen-
+tation patterns of the National Institute of Standards and
+Technology (Nist 08 lib.) spectral database was carried out.
+
+Essential oil analysis. The essential oil was extracted by
+hydro-distillation in a Clevenger device during 2 h, using
+100 g of fresh leaves into 1 L of distilled water. The
+GC-MS analysis of the essential oil of E. punicifolia
+was performed on a Varian Saturn 3900 GC/2100MS/
+CP8410 injector (Agilent Technologies, Santa Clara,
+CA, USA), using a VF-5 ms (WCOT fused silica) capil-
+lary column (30 m × 0.25 mm i.d.) under the following
+conditions: helium as carrier gas at 1.0mL/min, injector split
+Phytother. Res. 28: 1816–1821 (2014)
+
+
+
+1818 D. S. SALES ET AL.
+at 240°C (split ratio of 1/10), electron impact ionization at
+70eV (trap temperature 220°C), and oven temperature
+programmed from 60C up to 240C at 3C/min. Injection
+volume was 1μL of solution (1μL essential oil/1mL hex-
+ane). Compounds of the oil were identified by comparison
+of their mass spectra with those of Nist 62 library mass
+spectra and confirmed by comparison of their retention
+indices relative to C8-C20 n-alkanes (Adams, 1995).
+
+Treatment protocol. All patients took one capsule
+(200 mg) of the powdered plant material (leaves) of E.
+punicifolia, orally, three times a day (after breakfast,
+lunch, and dinner), for 3 months, in addition to their
+current treatment. This regimen was arbitrarily chosen
+to correspond to the main daily meals. Adherence was
+assessed by questioning the subjects during the medical
+interview. Blood pressure was recorded only in the visits.
+
+Laboratory evaluation and toxicity. The following labo-
+ratory tests were performed in all patients before and
+after 3 months of treatment: fasting and 2 h postprandial
+glycemia, glycosylated hemoglobin, basal insulin, 24 h
+microalbuminuria, ultra-sensible C-reactive protein
+(usCRP), thyroid-stimulating hormone (TSH), choles-
+terol (total and fractions), and triglycerides. Toxicity was
+assessed by measuring plasma aspartate transaminase,
+alanine transaminase, gamma-glutamyl transferase, bili-
+rubins, urea, creatinine, and creatine-phospho-kinase.
+
+Data collection. The following data were collected from
+medical charts and patient interviews: age, gender, body
+Table 2. Biochemical tests (mean ± SD) before and
+
+Variable Before tre
+
+Body weight (kg) 72 ± 1
+BMI (kg/m2) 26.9 ± 5
+Systolic blood pressure (mmHg) 130 ± 1
+Diastolic blood pressure (mmHg) 75 ± 7
+Fasting glycemia (mg/dL) 142 ± 3
+2 h postprandial glycemia (mg/dL) 150 ± 4
+Glycosylated hemoglobin (%) 7.6 ± 1
+Basal insulin (μU/mL) 11.2 ± 1
+TSH (μIU/mL) 3.2 ± 2
+usCRP (mg/L) 5.5 ± 6
+AST (IU/L) 20 ± 8
+ALT (IU/L) 21 ± 1
+GGT (IU/L) 24 ± 1
+Bilirubins (total, mg/dL) 0.61 ± 0
+CPK (IU/L) 87 ± 4
+Microalbuminuria (mg/24 h) 12.3 ± 1
+Urea (mg/dL) 35 ± 1
+Creatinine (mg/dL) 0.92 ± 0
+Cholesterol (mg/dL) total 170 ± 3
+HDL 45 ± 1
+LDL 97 ± 2
+
+Triglycerides (mg/dL) 144 ± 1
+
+BMI, body mass index; TSH, thyroid-stimulating hormo
+aspartate transaminase; ALT, alanine transaminase; G
+phospho-kinase; HDL, high-density lipoprotein; LDL, lo
+aSignificant difference.
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+weight and height, body mass index, time since diagnos-
+tic, complications, current alcohol use, current smoking,
+level of physical activity, family history of DM, and
+current treatment.
+Statistical analysis. Analysis was per-protocol. The
+primary outcome was a reduction of at least 1% in glyco-
+sylated hemoglobin. In order to detect such a difference
+(paired analysis) after the intervention, with a standard
+deviation of 1, significance of 5% and power of 80%, ten
+subjects needed to be studied. Secondary outcomes
+included fasting and 2h postprandial glycemia. Results
+are expressed as median (range), mean (±SD), or counts
+(percentages). Continuous variables were compared (be-
+fore versus after treatment) using paired Student’s t-tests
+or Wilcoxon’s test, according to data distribution. Categor-
+ical variables were compared using Fisher’s exact tests.
+Results were considered significant when p < 0.05.
+RESULTS
+
+Fifteen patients were screened and enrolled in the study
+between May 2010 and August 2011. Their demographic
+data are presented in Table 1. No patient was withdrawn
+from the study.
+
+After treatment, there was a significant reduction
+from baseline on both systolic and diastolic blood pres-
+sure, glycosylated hemoglobin, basal insulin, TSH, and
+usCRP, whereas there was no significant change on the
+other studied parameters (Table 2 and Figs 1 and 2).
+after treatment
+
+atment After treatment p-value
+
+7 71 ± 16 0.121
+.2 26.5 ± 4.8 0.118
+1 119 ± 9 0.004a
+
+69 ± 8 0.029a
+
+0 134 ± 28 0.120
+9 148 ± 47 0.911
+.0 6.7 ± 0.9 0.013a
+
+0.2 8.5 ± 8.3 0.028a
+
+.6 2.5 ± 1.6 0.044a
+
+.4 2.5 ± 3.8 0.035a
+
+22 ± 6 0.256
+3 23 ± 15 0.373
+4 27 ± 18 0.527
+.27 0.68 ± 0.29 0.362
+2 91 ± 52 0.801
+4.0 14.6 ± 11.6 0.454
+2 36 ± 9 0.832
+.21 0.87 ± 0.24 0.354
+1 165 ± 23 0.396
+1 46 ± 7 0.599
+6 92 ± 25 0.970
+05 138 ± 85 0.798
+
+ne; usCRP, ultra-sensible C-reactive protein; AST,
+GT; gamma-glutamyl transferase; CPK, creatine
+w-density lipoprotein.
+
+Phytother. Res. 28: 1816–1821 (2014)
+
+
+
+Figure 1. Systolic and diastolic blood pressure before and after
+3 months of treatment (N = 15). Notice that almost all patients
+experienced a reduction on systolic blood pressure after 3 months.
+On diastolic blood pressure, the effect was less intense. Some
+symbols and lines are superimposed, given the impression that
+there are fewer than 15 observations.
+
+1819Eugenia punicifolia AND TYPE-2 DIABETES MELLITUS
+Interestingly, the effects were stronger in patients with
+more abnormal tests. The mean difference on glycosyl-
+ated hemoglobin was of �0.96 (±1.32, with 95% confi-
+dence interval of �0.30 to �1.63) %. There was no
+evidence of toxicity. Only three patients had minor adverse
+events: diarrhea (n=2) and flatulence (n=1).
+Figure 2. Glycosylated hemoglobin, basal insulin, thyroid-stimulating ho
+and after 3 months of treatment. Notice that glycosylated hemoglobin l
+the others. Basal insulin fell in a few patients but was mostly unchanged.
+were slightly lower or unchanged from baseline in the remaining.
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+Online Supplementary Table S1 shows the proportion
+of patients fulfilling the 2010 American Diabetes Asso-
+ciation (ADA) goals for the management of type-2
+DM (American Diabetes Association, 2009).
+
+On the basis of the results of HPLC-DAD-ESI-MS
+analysis (Online Supplementary Table S2), five flavonoids
+were identified in the leaves of E. punicifolia methanolic
+extract: myricetin-3-O-rhamnoside (myricetin-3-O-R),
+quercetin-3-O-galactoside (quercetin-3-O-Ga), quercetin-
+3-O-xyloside (quercetin-3-O-X), quercetin-3-O-rhamnoside
+(quercetin-3-O-R), and kaempferol-3-O-rhamnoside
+(kaempferol-3-O-R). The GC-MS analyses of hexane
+and ethyl acetate fractions showed the presence of two
+major compounds: gallic acid and phytol (Online
+Supplementary Figs S1 and S2). The essential oil from
+the leaves of E. punicifolia contains, as major compo-
+nent, (-) trans-caryophyllene (Table S3).
+DISCUSSION
+
+This study showed that, in patients with type-2 DM, a
+3-month-long treatment with the powdered dried leaves
+of E. punicifolia resulted in a significant reduction on
+glycosylated hemoglobin, basal insulin, TSH, usCRP,
+and both systolic and diastolic blood pressure.
+
+It is interesting that we did not observe any effect on
+fasting or postprandial glycemia in our patients. However,
+according to recent studies, besides controlling glycemia,
+it is equally important to control other cardiovascular risk
+factors such as overweight, hypertension, and dyslipid-
+emia (Kuritzky, 2010). The 2010 ADA guidelines for the
+management of type-2 DM recommend achieving a
+glycosylated hemoglobin <7.0%, fasting glycemia of
+70–130 mg/dL, postprandial glycemia <180 mg/dL, LDL
+cholesterol <100 mg/dL, HDL cholesterol >40 (women)
+or >50 (men) mg/dL, and triglycerides <150 mg/dL
+(American Diabetes Association, 2009). According to
+rmone (TSH), and ultra-sensible C-reactive protein (usCRP) before
+evels fell dramatically in two patients, whereas only moderately in
+usCRP and TSH also fell dramatically in few patients whereas they
+
+Phytother. Res. 28: 1816–1821 (2014)
+
+
+
+1820 D. S. SALES ET AL.
+the data from 1999–2006 in the National Health and Nu-
+trition Examination Survey, only 12.2% of patients
+with DM achieved the recommended combined
+targets for glycosylated hemoglobin, blood pressure,
+and LDL cholesterol during this period (Kuritzky,
+2010). In our study, there was a significant increase
+in the proportion of patients achieving the 2010
+ADA therapeutic goals (Table S3).
+In a previously published study, a reduction of 1% on
+
+glycosylated hemoglobin was associated with a 37%
+reduction in the risk of microvascular complications
+(Stratton et al., 2000). Similarly, intensive glycemic
+control (glycosylated hemoglobin <7.0%) was associated
+with lower rates of new onset or worsened nephropathy
+or retinopathy, compared with patients randomized to
+non-intensive therapy (conventional insulin) during
+8 years of follow-up (Shichiri et al., 2000). In our study,
+glycosylated hemoglobin mean decrease was of 0.96%,
+and after treatment, 60% of patients had their glycosyl-
+ated hemoglobin <7.0%. Another interesting finding of
+our study was that usCRP decreased by more than a half
+from baseline. If we speculate that the treatment caused
+this reduction, then that might be an important finding
+because chronic inflammation plays a role on long-term
+complications of diabetes (Forbes and Cooper, 2013;
+Tabas and Glass, 2013). Therefore, E. punicifolia may
+be a good candidate for the prevention of complications
+of type-2 DM. We also observed a reduction on TSH
+levels, unexplained.
+To explain the biological activities of E. punicifolia,
+
+we conducted a chemical analysis of its components.
+Flavonoids, gallic acid, and phytol identified in E.
+punicifolia leaf extracts have significant antioxidant
+activity (Galeno et al., 2013; Salgueiro et al., 2013;
+Santos et al., 2013). It is well known that cells exposed
+to natural antioxidants exhibit decreased insulin resis-
+tance (Ruhe and McDonald, 2001). Hypoglycemic
+effects of flavonoids have been demonstrated through
+glucose uptake in peripheral tissues, regulatory activity
+and expression of enzymes involved in carbohydrate me-
+tabolism pathway (Choi et al., 1991; Matsuda et al., 2002;
+Kamalakkannan and Prince, 2006). Histopathological
+studies of pancreas of diabetic rats treated with gallic acid
+showed that this compound preserves the pancreatic
+tissue, enhance insulin secretion, promotes β-cell regener-
+ation, and normalizes biochemical parameters related
+to the patho-biochemistry of DM (Latha and Daisy,
+2011; Punithavathi et al., 2011). Phytol and its analogs also
+exhibit direct effects on diabetes, because they reduce
+insulin resistance, promote glucose uptake in primary he-
+patocytes, and are agonists of peroxisome proliferator-
+activated receptors (Elmazar et al., 2013).
+The essential oil from the leaves of E. punicifolia is
+
+rich in oxygenated sesquiterpenes and its major
+component, the (-) trans-caryophyllene, which has
+significant antiinflammatory activity (Fernandes et al.,
+2007). It is also effective in reducing TNF-α-induced
+prostaglandin E2 release, inducible nitric oxide
+synthase, and cyclooxygenase-2, all inflammatory
+mediators that negatively impact diabetes control.
+Copyright © 2014 John Wiley & Sons, Ltd.
+Undoubtedly, the substances identified in leaf extracts
+and essential oil of E. punicifolia can explain the clini-
+cal results observed here.
+
+Many authors advocate the use of individualized
+therapies for patients with type-2 DM, taking into con-
+sideration adverse effects of medications, medication
+administration complexity, cost, ‘needle phobia’, and
+comorbidities (Kuritzky, 2010). From this standpoint, our
+results suggest that adding E. punicifolia to current
+treatment regimens may improve control of type-2 DM
+of at least selected patients. Moreover, there was no
+evidence of toxicity or significant side effects. The adverse
+effects reported were diarrhea and flatulence, which are
+also common in patients using metformin and other
+hypoglycemiant drugs, including herbal medicines (Dans
+et al., 2007; Hui et al., 2009).
+
+Many other herbal interventions have been reported
+as useful for type-2 DM treatment, including Panax
+ginseng, Momordica charantia, and Coptis chinensis
+(Hui et al., 2009). However, to our knowledge, this is
+the first to exhibit an effect of such magnitude on
+disease control.
+
+Our results have to be considered with caution.
+Because this study was not placebo-controlled, we
+cannot exclude a Hawthorne effect, that is, the patients
+in the study may have been more prone to comply with
+the treatment and diet. This effect might have been
+further increased if patients consenting in participate
+in the study were sympathetic to herbal treatments. In
+addition, the use of the powdered leaves brings difficul-
+ties in reproducibility by other researchers. On the other
+hand, it was our intention to show that the plant has
+biological effects ‘in natura’, without need of any extrac-
+tion method. Other limitations are the small sample size,
+which limits power and external validity, and lack of
+monitoring at multiple time points during treatment.
+We plan to address these issues in a larger phase-3,
+randomized, placebo-controlled clinical trial, which is
+under consideration.
+
+In conclusion, diabetic patients treated with E. punicifolia
+as an adjuvant to standard treatment experienced a
+marked reduction on their glycosylated hemoglobin, basal
+insulin, TSH, usCRP, and both systolic and diastolic blood
+pressure, without changes in fasting and postprandial
+glycemia. Therefore, E. punicifolia deserves to be further
+investigated in larger, randomized, placebo-controlled
+clinical trials.
+Acknowledgements
+
+The authors acknowledge Prof. Norberto Peporine Lopes for high-
+performance liquid chromatography–diode array detection MS analysis
+(Department of Chemistry and Physics, Faculty of Pharmaceutical
+Sciences of Ribeirão Preto, University of São Paulo, Brazil).
+Conflict of Interest
+
+The authors have declared that there is no conflict of interest.
+REFERENCES
+Adams RP. 1995. Identification of Essential Oil Components by
+Gas Chromatography Mass Spect
