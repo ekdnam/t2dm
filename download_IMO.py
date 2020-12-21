@@ -123,10 +123,12 @@ def download(pmids):
 
         time.sleep(__SLEEPTIME__)
 
+
 def get_pdfs():
-    path = 'E:/Repos/GitHub/source/t2dm/temp'
-    pdf_files = [f for f in os.listdir(path) if f.endswith('.pdf')]
+    path = "E:/Repos/GitHub/source/t2dm/temp"
+    pdf_files = [f for f in os.listdir(path) if f.endswith(".pdf")]
     return pdf_files
+
 
 def rename_files(src: str, dst: str, folder_name: str):
     filepath = f"temp/{src}"
