@@ -1,0 +1,1 @@
+db.allData.insert({pmid: 9427226, title: "Risks for sensorimotor peripheral neuropathy and autonomic neuropathy in non-insulin-dependent diabetes mellitus (NIDDM)", insulin: 1, diabetic_complications: 1, odds_ratio: 1, is_downloaded: 0, cannot_be_downloaded: 0})
