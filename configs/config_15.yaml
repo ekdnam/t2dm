@@ -1,0 +1,6 @@
+parameters:
+  - insulin
+  - mortality
+  - clinical_trial
+folderName:
+  - insulin_mortality_clinical_trial

@@ -1,0 +1,6 @@
+parameters:
+  - insulin
+  - cardiovascular
+  - hazard_ratio
+folderName:
+  - insulin_cardiovascular_hazard_ratio

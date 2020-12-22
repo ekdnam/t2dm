@@ -1,0 +1,6 @@
+parameters:
+  - insulin
+  - diabetic_complications
+  - hazard_ratio
+folderName:
+  - insulin_diabetic_complications_hazard_ratio

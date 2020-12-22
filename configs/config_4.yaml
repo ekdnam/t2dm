@@ -1,0 +1,6 @@
+parameters:
+  - insulin
+  - cardiovascular
+  - clinical_trials
+folderName:
+  - insulin_cardiovascular_clinical_trials

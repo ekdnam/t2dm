@@ -1,0 +1,6 @@
+parameters:
+  - insulin
+  - diabetic_complications
+  - odd_ratio
+folderName:
+  - insulin_diabetic_complications_odd_ratio

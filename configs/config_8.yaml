@@ -1,0 +1,6 @@
+parameters:
+  - insulin
+  - cardiovascular
+  - odds_ratio
+folderName:
+  - insulin_cardiovascular_odds_ratio

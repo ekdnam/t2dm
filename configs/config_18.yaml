@@ -1,0 +1,6 @@
+parameters:
+  - insulin
+  - mortality
+  - hazards_ratio
+folderName:
+  - insulin_mortality_hazards_ratio

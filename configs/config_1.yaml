@@ -1,0 +1,6 @@
+parameters:
+  - insulin
+  - adverse_events
+  - odd_ratio
+folderName:
+  - insulin_adverse_events_odd_ratio

@@ -1,0 +1,6 @@
+parameters:
+  - insulin
+  - cardiovascular
+  - odd_ratio
+folderName:
+  - insulin_cardiovascular_odd_ratio

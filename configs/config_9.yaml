@@ -1,0 +1,6 @@
+parameters:
+  - insulin
+  - diabetic_complications
+  - clinical_trial
+folderName:
+  - insulin_diabetic_complications_clinical_trial
