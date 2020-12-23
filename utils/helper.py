@@ -21,13 +21,14 @@ class MyDriver:
 
         prefs = {
             "download.default_directory": r"E:\Repos\GitHub\source\t2dm\temp",
-            "download.prompt_for_download": False
+            "download.prompt_for_download": False,
         }
 
         self.options.add_experimental_option("prefs", prefs)
 
         self.driver = webdriver.Chrome(
-            self.__CHROMEDRIVERPATH__, chrome_options=self.options)
+            self.__CHROMEDRIVERPATH__, chrome_options=self.options
+        )
 
     def prompt_for_pdfs(self):
         print(
@@ -145,7 +146,9 @@ class MongoDriver:
         self.col = self.mongoClient[self.__COLLECTION__]
 
     def query_pmids_IAEOsR(self):
-        query = self.col.find({"insulin": 1, "adverse_events": 1, "odds_ratio": 1, "is_downloaded": 0})
+        query = self.col.find(
+            {"insulin": 1, "adverse_events": 1, "odds_ratio": 1, "is_downloaded": 0}
+        )
         pmids = []
         for data in query:
             pmids.append(data["pmids"])
@@ -153,7 +156,9 @@ class MongoDriver:
         return pmids
 
     def query_pmids_ICCT(self):
-        query = self.col.find({"insulin": 1, "cardiovascular": 1, "clinical_trial": 1, "is_downloaded": 0})
+        query = self.col.find(
+            {"insulin": 1, "cardiovascular": 1, "clinical_trial": 1, "is_downloaded": 0}
+        )
         pmids = []
         for data in query:
             pmids.append(data["pmids"])
@@ -161,7 +166,14 @@ class MongoDriver:
         return pmids
 
     def query_pmids_ICCTs(self):
-        query = self.col.find({"insulin": 1, "cardiovascular": 1, "clinical_trials": 1, "is_downloaded": 0})
+        query = self.col.find(
+            {
+                "insulin": 1,
+                "cardiovascular": 1,
+                "clinical_trials": 1,
+                "is_downloaded": 0,
+            }
+        )
         pmids = []
         for data in query:
             pmids.append(data["pmids"])
@@ -169,7 +181,9 @@ class MongoDriver:
         return pmids
 
     def query_pmids_ICHR(self):
-        query = self.col.find({"insulin": 1, "cardiovascular": 1, "hazard_ratio": 1, "is_downloaded": 0})
+        query = self.col.find(
+            {"insulin": 1, "cardiovascular": 1, "hazard_ratio": 1, "is_downloaded": 0}
+        )
         pmids = []
         for data in query:
             pmids.append(data["pmids"])
@@ -177,7 +191,9 @@ class MongoDriver:
         return pmids
 
     def query_pmids_ICHsR(self):
-        query = self.col.find({"insulin": 1, "cardiovascular": 1, "hazards_ratio": 1, "is_downloaded": 0})
+        query = self.col.find(
+            {"insulin": 1, "cardiovascular": 1, "hazards_ratio": 1, "is_downloaded": 0}
+        )
         pmids = []
         for data in query:
             pmids.append(data["pmids"])
@@ -185,7 +201,9 @@ class MongoDriver:
         return pmids
 
     def query_pmids_ICOR(self):
-        query = self.col.find({"insulin": 1, "cardiovascular": 1, "odd_ratio": 1, "is_downloaded": 0})
+        query = self.col.find(
+            {"insulin": 1, "cardiovascular": 1, "odd_ratio": 1, "is_downloaded": 0}
+        )
         pmids = []
         for data in query:
             pmids.append(data["pmids"])
@@ -193,7 +211,14 @@ class MongoDriver:
         return pmids
 
     def query_pmids_IDCCT(self):
-        query = self.col.find({"insulin": 1, "diabetic_complications": 1, "clinical_trial": 1, "is_downloaded": 0})
+        query = self.col.find(
+            {
+                "insulin": 1,
+                "diabetic_complications": 1,
+                "clinical_trial": 1,
+                "is_downloaded": 0,
+            }
+        )
         pmids = []
         for data in query:
             pmids.append(data["pmids"])
@@ -201,7 +226,14 @@ class MongoDriver:
         return pmids
 
     def query_pmids_IDCOR(self):
-        query = self.col.find({"insulin": 1, "diabetic_complications": 1, "odds_ratio": 1, "is_downloaded": 0})
+        query = self.col.find(
+            {
+                "insulin": 1,
+                "diabetic_complications": 1,
+                "odds_ratio": 1,
+                "is_downloaded": 0,
+            }
+        )
         pmids = []
         for data in query:
             pmids.append(data["pmid"])
@@ -209,7 +241,9 @@ class MongoDriver:
         return pmids
 
     def query_pmids_IMCT(self):
-        query = self.col.find({"insulin": 1, "mortality": 1, "clinical_trial": 1, "is_downloaded": 1})
+        query = self.col.find(
+            {"insulin": 1, "mortality": 1, "clinical_trial": 1, "is_downloaded": 1}
+        )
         pmids = []
         for data in query:
             pmids.append(data["pmid"])
@@ -217,7 +251,9 @@ class MongoDriver:
         return pmids
 
     def query_pmids_IMCTs(self):
-        query = self.col.find({"insulin": 1, "mortality": 1, "clinical_trials": 1, "is_downloaded": 1})
+        query = self.col.find(
+            {"insulin": 1, "mortality": 1, "clinical_trials": 1, "is_downloaded": 1}
+        )
         pmids = []
         for data in query:
             pmids.append(data["pmid"])
@@ -225,7 +261,9 @@ class MongoDriver:
         return pmids
 
     def query_pmids_IMHR(self):
-        query = self.col.find({"insulin": 1, "mortality": 1, "hazard_ratio": 1, "is_downloaded": 1})
+        query = self.col.find(
+            {"insulin": 1, "mortality": 1, "hazard_ratio": 1, "is_downloaded": 1}
+        )
         pmids = []
         for data in query:
             pmids.append(data["pmid"])
@@ -233,7 +271,9 @@ class MongoDriver:
         return pmids
 
     def query_pmids_IMHsR(self):
-        query = self.col.find({"insulin": 1, "mortality": 1, "hazards_ratio": 1, "is_downloaded": 1})
+        query = self.col.find(
+            {"insulin": 1, "mortality": 1, "hazards_ratio": 1, "is_downloaded": 1}
+        )
         pmids = []
         for data in query:
             pmids.append(data["pmid"])
@@ -241,7 +281,9 @@ class MongoDriver:
         return pmids
 
     def query_pmids_IMOsR(self):
-        query = self.col.find({"insulin": 1, "mortality": 1, "odds_ratio": 1, "is_downloaded": 1})
+        query = self.col.find(
+            {"insulin": 1, "mortality": 1, "odds_ratio": 1, "is_downloaded": 1}
+        )
         pmids = []
         for data in query:
             pmids.append(data["pmid"])
