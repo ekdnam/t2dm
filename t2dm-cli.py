@@ -3,12 +3,34 @@ import os
 import sys
 import time
 
+# pymongo to access mongodb
+import pymongo
+from pymongo import MongoClient
+
 import selenium
 from selenium import webdriver
 
 __CHROMEDRIVERPATH__ = r"C:/chromedriver/chromedriver.exe"
 __DEFAULTPMID__ = 30694322
 __SLEEPTIME__ = 50
+__DATABASE__ = "t2dm"
+__COLLECTION__ = "allData"
+__SLEEPTIME__ = 30
+# __FOLDERNAME__ = "insulin_cardiovascular_clinical_trial"
+# init mongo connection
+mongoClient = MongoClient("mongodb://localhost:27017/")
+db = mongoClient[__DATABASE__]
+col = db[__COLLECTION__]
+
+def update(pmid: int):
+    myquery = {"pmid": pmid}
+    newvalues = {"$set": {"is_downloaded": 1}}
+    col.update_one(myquery, newvalues)
+
+def download_error(pmid: int):
+    myquery = {"pmid": pmid}
+    newvalues = {"$set": {"download_error": 1}}
+    col.update_one(myquery, newvalues)
 
 parser = argparse.ArgumentParser(description="Download single paper with PMID")
 
@@ -78,42 +100,50 @@ print(
 driver.get("chrome://settings/content/pdfDocuments?search=pdf")
 time.sleep(15)
 # access link subroutine
+try:
+    driver.get("https://sci-hub.se/")
+    # get search box
+    search_box = driver.find_element_by_name("request")
 
-driver.get("https://sci-hub.se/")
-# get search box
-search_box = driver.find_element_by_name("request")
+    # send pmid to selenium browser
+    print("Sending keys.")
+    search_box.send_keys(str(PMID))
+    driver.execute_script(
+        """
+        var elem = arguments[0];
+        var value = arguments[1]
+        elem.value = value;
+    """,
+        search_box,
+        str(PMID),
+    )
+    # submit form. go to pdf page
+    driver.execute_script("javascript:document.forms[0].submit()")
+    # accessing pdf download buttons
+    element = driver.find_element_by_xpath("//div[@id='article']/iframe")
+    print(element.get_attribute("src"))
+    # download pdf
+    driver.get(str(element.get_attribute("src")))
+    print("Sleeping for download to get completed")
+    time.sleep(20)
 
-# send pmid to selenium browser
-print("Sending keys.")
-search_box.send_keys(str(PMID))
-driver.execute_script(
-    """
-    var elem = arguments[0];
-    var value = arguments[1]
-    elem.value = value;
-""",
-    search_box,
-    str(PMID),
-)
-# submit form. go to pdf page
-driver.execute_script("javascript:document.forms[0].submit()")
-# accessing pdf download buttons
-element = driver.find_element_by_xpath("//div[@id='article']/iframe")
-print(element.get_attribute("src"))
-# download pdf
-driver.get(str(element.get_attribute("src")))
-print("Sleeping for download to get completed")
-time.sleep(20)
+    pdf_files = get_pdfs()
 
-pdf_files = get_pdfs()
+    if len(pdf_files) != 1:
+        print("Cannot rename file, exiting")
+        driver.close()
+        sys.exit()
 
-if len(pdf_files) != 1:
-    print("Cannot rename file, exiting")
+    # rename files
+    rename_files(pdf_files[0], str(PMID), folder_name)
+    print(f"{pdf_files[0]} renamed to {str(PMID)}.pdf")
+
+    update(pmid)
+
     driver.close()
-    sys.exit()
-
-# rename files
-rename_files(pdf_files[0], str(PMID), folder_name)
-print(f"{pdf_files[0]} renamed to {str(PMID)}.pdf")
-
-driver.close()
+    except KeyboardInterrupt:
+        # update_not_downloaded(pmid)
+        # continue
+        print("exiting")
+    except:
+        download_error(pmid)

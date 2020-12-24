@@ -25,7 +25,14 @@ db = mongoClient[__DATABASE__]
 col = db[__COLLECTION__]
 
 # run mongo queries
-query = col.find({"insulin": 1, "diabetic_complications": 1, "clinical_trials": 1, "is_downloaded": 0})
+query = col.find(
+    {
+        "insulin": 1,
+        "diabetic_complications": 1,
+        "clinical_trials": 1,
+        "is_downloaded": 0,
+    }
+)
 pmids = []
 
 # get pmid from result of query
@@ -112,7 +119,9 @@ def download(pmids):
             break
 
         # rename files
-        rename_files(pdf_files[0], str(pmid), "insulin_diabetic_complications_clinical_trials")
+        rename_files(
+            pdf_files[0], str(pmid), "insulin_diabetic_complications_clinical_trials"
+        )
         print(f"{pdf_files[0]} renamed to {str(pmid)}.pdf")
 
         # update equivalent document in mongodb

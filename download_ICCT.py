@@ -6,6 +6,7 @@ import time
 import glob
 import os
 import sys
+
 # pymongo to access mongodb
 import pymongo
 from pymongo import MongoClient
@@ -25,7 +26,9 @@ db = mongoClient[__DATABASE__]
 col = db[__COLLECTION__]
 
 # run mongo queries
-query = col.find({"insulin": 1, "cardiovascular": 1, "clinical_trial": 1, "is_downloaded": 0})
+query = col.find(
+    {"insulin": 1, "cardiovascular": 1, "clinical_trial": 1, "is_downloaded": 0}
+)
 pmids = []
 
 # get pmid from result of query
@@ -56,7 +59,7 @@ time.sleep(20)
 def download(pmids):
     print(f"Total files are: {len(pmids)}")
     i = 1
-    
+
     for pmid in pmids:
         try:
             print(f"Iteration {i}\nPMID: {pmid}. Remaining: {len(pmids) - i}")
@@ -138,7 +141,6 @@ def download(pmids):
             continue
 
 
-
 def get_pdfs():
     path = "E:/Repos/GitHub/source/t2dm/temp"
     pdf_files = [f for f in os.listdir(path) if f.endswith(".pdf")]
@@ -167,10 +169,12 @@ def update(pmid: int):
     newvalues = {"$set": {"is_downloaded": 1}}
     col.update_one(myquery, newvalues)
 
+
 def download_error(pmid: int):
     myquery = {"pmid": pmid}
     newvalues = {"$set": {"download_error": 1}}
     col.update_one(myquery, newvalues)
+
 
 def get_actual_filename(name):
     dirs = name.split("\\")
