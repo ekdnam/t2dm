@@ -18,8 +18,8 @@ from selenium import webdriver
 
 __DATABASE__ = "t2dm"
 __COLLECTION__ = "allData"
-__SLEEPTIME__ = 30
-__FOLDERNAME__ = "insulin_cardiovascular_clinical_trial"
+__SLEEPTIME__ = 60
+__FOLDERNAME__ = "insulin_cardiovascular_clinical_trials"
 # init mongo connection
 mongoClient = MongoClient("mongodb://localhost:27017/")
 db = mongoClient[__DATABASE__]
@@ -27,7 +27,7 @@ col = db[__COLLECTION__]
 
 # run mongo queries
 query = col.find(
-    {"insulin": 1, "cardiovascular": 1, "clinical_trial": 1, "is_downloaded": 0}
+    {"insulin": 1, "cardiovascular": 1, "clinical_trials": 1, "is_downloaded": 0}
 )
 pmids = []
 
