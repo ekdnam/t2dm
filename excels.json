@@ -1,7 +1,7 @@
 {
-  "insulin_adverse_events_odds_ratio.xlsx": 1,
-  "insulin_cardiovascular_clinical_trial.xlsx": 1,
-  "insulin_cardiovascular_clinical_trials.xlsx": 1,
+  "insulin_adverse_events_odds_ratio.xlsx": "done",
+  "insulin_cardiovascular_clinical_trial.xlsx": "incomplete",
+  "insulin_cardiovascular_clinical_trials.xlsx": "done",
   "insulin_cardiovascular_hazard_ratio.xlsx": 1,
   "insulin_cardiovascular_hazards_ratio.xlsx": 1,
   "insulin_cardiovascular_odd_ratio.xlsx": 1,
@@ -11,5 +11,5 @@
   "insulin_mortality_clinical_trials.xlsx": 1,
   "insulin_mortality_hazard_ratio.xlsx": 1,
   "insulin_mortality_hazards_ratio.xlsx": 1,
-  "insulin_mortality_odds_ratio.xlsx": 1
+  "insulin_mortality_odds_ratio.xlsx": "done"
 }
